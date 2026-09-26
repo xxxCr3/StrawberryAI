@@ -1,2 +1,3 @@
 # StrawberryAI
 The 'BerryWell Medical' project was launched in 2023, initiated by a student team from Ningxia Vocational and Technical University.
+Relying on resource platforms such as the school's smart greenhouse and Amazon Cloud Innovation Laboratory, a joint team comprising faculty and students from multiple disciplines including food testing technology, computer science, biopharmaceuticals, and big data accounting has been formed. Over three years of practical exploration, the project has developed a comprehensive intelligent prevention and control model for strawberry diseases, integrating "early identification - early screening - early prevention - early control."
